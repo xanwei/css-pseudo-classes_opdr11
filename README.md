@@ -1,3 +1,4 @@
-# pseudo-class_opdr11
-opdracht is nog niet helemaal af.
-Probleem nu zijn padding left in de navigatiebalk. Het moet op nul staan, maar hij pakt het niet.
+#css-pseudo-classes_opdr11
+De uitdaging hier was begrijpend lezend.
+In mijn hoofd had ik de zoekbalk met de navigatiebalk (hier horizontaal) verwisseld. Dat was lang puzzelen... totdat ik deze idee heb kunnen loslaten.  ;-)
+
